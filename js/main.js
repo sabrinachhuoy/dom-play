@@ -15,9 +15,9 @@ function highlight (el){
     for (const mySpan of spans){
    
         if(actor == mySpan.dataset.actor){//if white, then turn yellow
-            mySpan.style.backgroundColor='yellow';
+            mySpan.style.backgroundColor='pink';
            }else{//turn white
-            mySpan.style.backgroundColor='white';
+            mySpan.style.backgroundColor='orange';
            }
     }
   
