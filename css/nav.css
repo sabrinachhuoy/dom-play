@@ -1,11 +1,8 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: rgba(245, 11, 179, 0.293);
+    background-color: rgba(243, 172, 222, 0.293);
     overflow: auto;
-    border-width: 1px;
-    border-style:solid;
-    border-color: rgb(240, 95, 131)
     
 }
 

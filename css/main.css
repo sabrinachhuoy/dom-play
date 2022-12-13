@@ -36,9 +36,8 @@ h1.page-header{
 main.wrapper {
     background-color: rgba(255, 255, 255, 0.545);
     overflow: auto;
-    border-width: 1.5px;
-    border-style:solid;
-    border-color: rgb(4, 0, 13);
+   
+
 }
 
 
